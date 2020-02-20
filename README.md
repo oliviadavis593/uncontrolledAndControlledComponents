@@ -1,2 +1,0 @@
-# uncontrolledAndControlledComponents
-Created with CodeSandbox
